@@ -16,3 +16,5 @@ Running this program in Xcode, and it would make the files sort by filename
 The only thing you should do is modify the  path  in the FileClassify.m
 
 你只需要修改FileClassify.m的路径宏定义就可以了。
+
+【test】
